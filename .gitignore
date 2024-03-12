@@ -1,0 +1,11 @@
+# Build
+*.o
+*.a
+test_dilithium
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
