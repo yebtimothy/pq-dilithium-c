@@ -2,6 +2,8 @@
 
 A zero-dependency, optimized C implementation of the NIST **ML-DSA-65** (Dilithium3) digital signature scheme.
 
+**Version:** 0.1.0 (`PQC_DILITHIUM_VERSION` in [`include/api.h`](include/api.h)). See [CHANGELOG.md](CHANGELOG.md).
+
 ## Features
 
 - **Zero External Dependencies**: Includes self-contained FIPS 202 (Keccak/SHAKE) implementation.

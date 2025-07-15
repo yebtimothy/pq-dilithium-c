@@ -5,6 +5,11 @@
 #include <stdint.h>
 #include "params.h"
 
+#define PQC_DILITHIUM_VERSION_MAJOR 0
+#define PQC_DILITHIUM_VERSION_MINOR 1
+#define PQC_DILITHIUM_VERSION_PATCH 0
+#define PQC_DILITHIUM_VERSION "0.1.0"
+
 // Public Key size: 1952 bytes
 #define PQC_DILITHIUM_PUBLICKEYBYTES PUBLICKEYBYTES
 // Private Key size: 4016 bytes (approx)
